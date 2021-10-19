@@ -1,8 +1,7 @@
-# Najbolj prodajane knjige na Amazonu
-V podkategoriji Klasike
+# Najbolj prodajane knjige na Amazonu 
 
 V nalogi bom analizirala podatke najbolj prodajanih knjigah iz strani
-[Amazon](https://www.amazon.com/Best-Sellers-Books-Classic-Literature-Fiction/zgbs/books/10399/ref=zg_bs_nav_b_2_17).
+[Amazon](https://www.amazon.com/Best-Sellers-Books-Classic-Literature-Fiction/zgbs/books/10399/ref=zg_bs_nav_b_2_17) v podkategoriji Klasike.
 
 Pri tem me bodo za vsako knjigo zanimali naslednji podatki:
 * Naslov in avtor
