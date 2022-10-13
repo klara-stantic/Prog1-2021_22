@@ -190,8 +190,10 @@ let branch_state (state : state) : (state * state) option =
      v prvem predpostavi, da hipoteza velja, v drugem pa ravno obratno.
      Če bo vaš algoritem najprej poizkusil prvo možnost, vam morda pri drugi
      za začetek ni treba zapravljati preveč časa, saj ne bo nujno prišla v poštev. *)
-  ()
-  
+  (*najprej najde prvo celico, ki ima None*)
+  (*preveri, če so v vrstici, stolpcu ali škatlici že kakšne številke in jih izloči od možnih*)
+  (*za vsako preostalo številko pridemo do hipoteze - preverimo, če je prava ali ne*)
+
 
 (* pogledamo, če trenutno stanje vodi do rešitve *)
 let rec solve_state (state : state) =
